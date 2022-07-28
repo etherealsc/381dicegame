@@ -1,0 +1,720 @@
+fileFormatVersion: 2
+guid: 6bdf6b487d349e148a6ff81c4e5df381
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2749963855612951886
+    second: GMTK_Game_Jam_2022_Dice_0
+  - first:
+      213: 811629774258475102
+    second: GMTK_Game_Jam_2022_Dice_1
+  - first:
+      213: 7995171468375506279
+    second: GMTK_Game_Jam_2022_Dice_2
+  - first:
+      213: -4457741005698546489
+    second: GMTK_Game_Jam_2022_Dice_3
+  - first:
+      213: -1900486344734519208
+    second: GMTK_Game_Jam_2022_Dice_4
+  - first:
+      213: 4988271746000963164
+    second: GMTK_Game_Jam_2022_Dice_5
+  - first:
+      213: -1737457795247831931
+    second: GMTK_Game_Jam_2022_Dice_6
+  - first:
+      213: 9092763927031966610
+    second: GMTK_Game_Jam_2022_Dice_7
+  - first:
+      213: -7031593669371128268
+    second: GMTK_Game_Jam_2022_Dice_8
+  - first:
+      213: 473030559491635527
+    second: GMTK_Game_Jam_2022_Dice_9
+  - first:
+      213: 3691117738331237628
+    second: GMTK_Game_Jam_2022_Dice_10
+  - first:
+      213: 3489039677066694590
+    second: GMTK_Game_Jam_2022_Dice_11
+  - first:
+      213: -5942528806764938578
+    second: GMTK_Game_Jam_2022_Dice_12
+  - first:
+      213: -5095152944376299458
+    second: GMTK_Game_Jam_2022_Dice_13
+  - first:
+      213: 6528371255479958964
+    second: GMTK_Game_Jam_2022_Dice_14
+  - first:
+      213: -8447787895971323099
+    second: GMTK_Game_Jam_2022_Dice_15
+  - first:
+      213: 2347616586896771433
+    second: GMTK_Game_Jam_2022_Dice_16
+  - first:
+      213: -4596132788691184737
+    second: GMTK_Game_Jam_2022_Dice_17
+  - first:
+      213: 5261311433022469302
+    second: GMTK_Game_Jam_2022_Dice_18
+  - first:
+      213: 3995155267174728698
+    second: GMTK_Game_Jam_2022_Dice_19
+  - first:
+      213: 6092374466044709845
+    second: GMTK_Game_Jam_2022_Dice_20
+  - first:
+      213: 7678564603316638422
+    second: GMTK_Game_Jam_2022_Dice_21
+  - first:
+      213: -8648616670756572220
+    second: GMTK_Game_Jam_2022_Dice_22
+  - first:
+      213: 3073253980198696014
+    second: GMTK_Game_Jam_2022_Dice_23
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 5
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 239
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GMTK_Game_Jam_2022_Dice_0
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 916
+        width: 235
+        height: 235
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b2c609717a26d9d0800000000000000
+      internalID: -2749963855612951886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GMTK_Game_Jam_2022_Dice_1
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 910
+        width: 235
+        height: 235
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e509ecfbafc734b00800000000000000
+      internalID: 811629774258475102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GMTK_Game_Jam_2022_Dice_2
+      rect:
+        serializedVersion: 2
+        x: 1073
+        y: 905
+        width: 235
+        height: 235
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76d3cda171e84fe60800000000000000
+      internalID: 7995171468375506279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GMTK_Game_Jam_2022_Dice_3
+      rect:
+        serializedVersion: 2
+        x: 1389
+        y: 906
+        width: 235
+        height: 235
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c445a66c2ce222c0800000000000000
+      internalID: -4457741005698546489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GMTK_Game_Jam_2022_Dice_4
+      rect:
+        serializedVersion: 2
+        x: 1694
+        y: 903
+        width: 235
+        height: 235
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8505e991dbd10a5e0800000000000000
+      internalID: -1900486344734519208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GMTK_Game_Jam_2022_Dice_5
+      rect:
+        serializedVersion: 2
+        x: 1992
+        y: 907
+        width: 235
+        height: 235
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c56418759b6e93540800000000000000
+      internalID: 4988271746000963164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GMTK_Game_Jam_2022_Dice_6
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 644
+        width: 235
+        height: 235
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5840506375f43e7e0800000000000000
+      internalID: -1737457795247831931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GMTK_Game_Jam_2022_Dice_7
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 637
+        width: 235
+        height: 235
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29be939bd9cff2e70800000000000000
+      internalID: 9092763927031966610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GMTK_Game_Jam_2022_Dice_8
+      rect:
+        serializedVersion: 2
+        x: 1076
+        y: 636
+        width: 235
+        height: 235
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4369f3c00d2ca6e90800000000000000
+      internalID: -7031593669371128268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GMTK_Game_Jam_2022_Dice_9
+      rect:
+        serializedVersion: 2
+        x: 1388
+        y: 633
+        width: 235
+        height: 235
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7493762a9ca809600800000000000000
+      internalID: 473030559491635527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GMTK_Game_Jam_2022_Dice_10
+      rect:
+        serializedVersion: 2
+        x: 1697
+        y: 627
+        width: 235
+        height: 235
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfc6061d60c793330800000000000000
+      internalID: 3691117738331237628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GMTK_Game_Jam_2022_Dice_11
+      rect:
+        serializedVersion: 2
+        x: 1993
+        y: 630
+        width: 235
+        height: 235
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebfcdceb91f8b6030800000000000000
+      internalID: 3489039677066694590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GMTK_Game_Jam_2022_Dice_12
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 369
+        width: 235
+        height: 235
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaaff3df885e78da0800000000000000
+      internalID: -5942528806764938578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GMTK_Game_Jam_2022_Dice_13
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 370
+        width: 235
+        height: 235
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e304a2274616a49b0800000000000000
+      internalID: -5095152944376299458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GMTK_Game_Jam_2022_Dice_14
+      rect:
+        serializedVersion: 2
+        x: 1077
+        y: 368
+        width: 235
+        height: 235
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bdf0cc611f699a50800000000000000
+      internalID: 6528371255479958964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GMTK_Game_Jam_2022_Dice_15
+      rect:
+        serializedVersion: 2
+        x: 1385
+        y: 366
+        width: 235
+        height: 235
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 523e8cabaad63ca80800000000000000
+      internalID: -8447787895971323099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GMTK_Game_Jam_2022_Dice_16
+      rect:
+        serializedVersion: 2
+        x: 1696
+        y: 363
+        width: 235
+        height: 235
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9690ccaf8d8649020800000000000000
+      internalID: 2347616586896771433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GMTK_Game_Jam_2022_Dice_17
+      rect:
+        serializedVersion: 2
+        x: 1997
+        y: 361
+        width: 235
+        height: 235
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f93598d74914730c0800000000000000
+      internalID: -4596132788691184737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GMTK_Game_Jam_2022_Dice_18
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 85
+        width: 235
+        height: 235
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b4710a6fdee30940800000000000000
+      internalID: 5261311433022469302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GMTK_Game_Jam_2022_Dice_19
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 85
+        width: 235
+        height: 235
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af30b7a5c84a17730800000000000000
+      internalID: 3995155267174728698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GMTK_Game_Jam_2022_Dice_20
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 86
+        width: 235
+        height: 235
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5db414f4c467c8450800000000000000
+      internalID: 6092374466044709845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GMTK_Game_Jam_2022_Dice_21
+      rect:
+        serializedVersion: 2
+        x: 1386
+        y: 83
+        width: 235
+        height: 235
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d2939de2ddbf8a60800000000000000
+      internalID: 7678564603316638422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GMTK_Game_Jam_2022_Dice_22
+      rect:
+        serializedVersion: 2
+        x: 1697
+        y: 77
+        width: 235
+        height: 235
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c37805d5f0f9f780800000000000000
+      internalID: -8648616670756572220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GMTK_Game_Jam_2022_Dice_23
+      rect:
+        serializedVersion: 2
+        x: 1995
+        y: 78
+        width: 235
+        height: 235
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e447c42563466aa20800000000000000
+      internalID: 3073253980198696014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
